@@ -15,9 +15,9 @@
 .item {
   display: flex;
   background-color: seashell;
-  border: 1px solid violet;
+  border: 1px solid rgb(223, 126, 223);
   list-style: none;
-  box-shadow: 4px 5px 8px rgb(240, 64, 240);
+  box-shadow: 4px 5px 9px rgb(240, 64, 240);
   width: 300px;
   padding: 15px;
   margin: 10px;
