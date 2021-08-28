@@ -1,11 +1,9 @@
 .statistics {
-  /* border: 1px solid violet; */
   align-items: center;
 }
 
 .stat_list {
   display: flex;
-  /* width: 300px; */
   height: 100px;
   padding-inline-start: 0px;
   margin: 10px;
