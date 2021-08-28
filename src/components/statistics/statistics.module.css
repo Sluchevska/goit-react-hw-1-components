@@ -13,7 +13,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border: 1px solid violet;
+  border: 1px solid rgb(248, 148, 248);
   box-shadow: 4px 5px 8px rgb(85, 42, 85);
   width: 70px;
   list-style: none;
